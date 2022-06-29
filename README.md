@@ -1,2 +1,0 @@
-# regexcite
-Desarrollo de librería.
